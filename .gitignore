@@ -1,0 +1,10 @@
+.vscode
+server/venv
+
+server/.env
+
+server/default.db
+
+**__pycache__**
+
+server/venv
